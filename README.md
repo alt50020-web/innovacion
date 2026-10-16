@@ -1,5 +1,6 @@
-# innovacion
+# Innovación
 
-Gay el que lo leea 
 
-DOCTORRR
+
+Quipo Primis (Doctor, Richtophen, el dannyyy <3, y el josue)
+
