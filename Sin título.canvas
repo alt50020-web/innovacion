@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4279c7623308443f","x":-740,"y":-640,"width":250,"height":60,"type":"text","text":"Asistente personal de IA"},
+		{"id":"641b1f8510ef9fb0","x":440,"y":-640,"width":250,"height":60,"type":"text","text":"Conectarse a aplicasiones"},
+		{"id":"9a3d1110f540daad","x":-228,"y":-301,"width":250,"height":401,"type":"text","text":""},
+		{"id":"ccea5d649ac36f65","x":139,"y":-283,"width":250,"height":60,"type":"text","text":"detonador\nCuando detecte un bucle de mensajes\n"}
+	],
+	"edges":[]
+}
